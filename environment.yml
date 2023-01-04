@@ -1,0 +1,9 @@
+name: dualcoop
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pytorch
+  - torchvision
+  - torchaudio
+prefix: /Users/sunxm/opt/miniconda3/envs/dualcoop

@@ -1,0 +1,11 @@
+DATASET:
+  NAME: "nus_wide_zsl"
+  ROOT: ""
+  VAL_SPLIT: "val"
+  VAL_GZSL_SPLIT: "val_gzsl"
+  TEST_SPLIT: "val"
+  TEST_GZSL_SPLIT: "test_gzsl"
+  TRAIN_SPLIT: "train"
+  ZS_TRAIN: ""
+  ZS_TEST: ""
+  ZS_TEST_UNSEEN: ""

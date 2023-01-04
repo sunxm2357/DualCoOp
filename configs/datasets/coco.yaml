@@ -1,0 +1,11 @@
+DATASET:
+  NAME: "coco"
+  ROOT: ""
+  VAL_SPLIT: "val2014"
+  VAL_GZSL_SPLIT: "val2014"
+  TEST_SPLIT: "val2014"
+  TEST_GZSL_SPLIT: "val2014"
+  TRAIN_SPLIT: "train2014"
+  ZS_TRAIN: "instances_train2014_seen_48_17.json"
+  ZS_TEST: "instances_val2014_gzsi_48_17.json"
+  ZS_TEST_UNSEEN: "instances_val2014_unseen_48_17.json"
