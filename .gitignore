@@ -1,3 +1,7 @@
 .DS_Store
 .idea/
 __pycache__
+Dassl.pytorch
+datasets
+output
+environment_used.yml
